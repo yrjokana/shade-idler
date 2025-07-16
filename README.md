@@ -17,7 +17,7 @@ SHΔDE is a keyboard/mouse automation tool for games. It lets you simulate holdi
 
 ## 🖥️ How to Use
 
-1. Download the `.exe` from [Releases](https://github.com/YOUR_USERNAME/shade-idler/releases)
+1. Download the `.exe` from [Releases](https://github.com/yrjokana/shade-idler/releases)
 2. Launch it (no installation needed)
 3. Read the disclaimer and accept to start
 4. Use the menu to choose between Idler or Auto-Clicker modes
