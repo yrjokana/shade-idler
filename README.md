@@ -32,4 +32,4 @@ SHΔDE is a keyboard/mouse automation tool for games. It lets you simulate holdi
 
 ---
 
-*Made with love by Agent SMF and SHΔDE.*
+*Made with love by Yrjö Kana and SHΔDE.*
