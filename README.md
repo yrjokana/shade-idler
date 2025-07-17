@@ -41,4 +41,4 @@
 Built in ~9 hours with breaks on **July 16th**.  
 Created by **Yrjö Kana** and **SHΔDE**.
 
-[→ Watch the promo video (coming soon)](#)
+[→ Watch the promo video](https://www.youtube.com/watch?v=Etqb_Z8zGVE)
