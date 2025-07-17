@@ -1,35 +1,44 @@
 # SHΔDE - Game Idler Tool
 
-SHΔDE is a keyboard/mouse automation tool for games. It lets you simulate holding movement keys, jumping, or clicking — all toggleable with hotkeys.
+**SHΔDE** is a lightweight keyboard and mouse automation tool for games. It lets you simulate holding movement keys, jumping, or clicking — all easily controlled with hotkeys.
 
-⚠️ Use at your own risk. This tool sends input to games and could be considered automation or AFK scripting.
-
-## 🎮 Features
-
-- W + D Hold Mode (`F6`)
-- Jump Mode (`F8`)
-- Combo Mode (`F9`)
-- Auto-Clicker Mode (`F7`)
-- Custom delay for auto-clicker
-- Mode isolation (no accidental toggles)
-- Hotkey-based control
-- Clean Exit (`F10`)
-
-## 🖥️ How to Use
-
-1. Download the `.exe` from [Releases](https://github.com/yrjokana/shade-idler/releases)
-2. Launch it (no installation needed)
-3. Read the disclaimer and accept to start
-4. Use the menu to choose between Idler or Auto-Clicker modes
-5. Press hotkeys to toggle features
-6. Press `ESC` to go back or `F10` to quit
-
-## 💡 Future Plans
-
-- Save/load settings
-- GUI (Windows Forms or WPF)
-- More modes
+⚠️ **Disclaimer:** Use at your own risk. This tool sends input to games and may be considered automation or AFK scripting in certain cases.
 
 ---
 
-*Made with love by Yrjö Kana and SHΔDE.*
+## 🎮 Features
+
+- **W + D Hold Mode** (`F6`)
+- **Jump Mode** (`F8`)
+- **Combo Mode** (`F9`)
+- **Auto-Clicker Mode** (`F7`)
+- Adjustable click delay
+- Hotkey-based toggle system
+- Modes are isolated — no cross-triggering
+- Clean shutdown with `F10`
+
+---
+
+## 🖥️ How to Use
+
+1. Download the `.exe` from the [latest release](https://github.com/yrjokana/shade-idler/releases/tag/v1.0.0)
+2. Launch the app (no installation required)
+3. Accept the disclaimer to begin
+4. Choose between Idler or Auto-Clicker mode
+5. Use the hotkeys to activate features
+6. Press `ESC` to return or `F10` to quit
+
+---
+
+## 💡 Planned Features
+
+- Save/load settings
+- GUI (Windows Forms or WPF)
+- More idling modes
+
+---
+
+Built in ~9 hours with breaks on **July 16th**.  
+Created by **Yrjö Kana** and **SHΔDE**.
+
+[→ Watch the promo video (coming soon)](#)
